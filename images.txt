@@ -15,3 +15,8 @@ registry.k8s.io/sig-storage/csi-snapshotter:v8.2.0
 registry.k8s.io/sig-storage/livenessprobe:v2.15.0
 registry.k8s.io/sig-storage/nfsplugin:v4.11.0
 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
+jenkins/jnlp-agent-maven:jdk11
+jenkins/jnlp-agent-node:latest
+maven:3.8.6-jdk-11
+docker:20.10-dind
+jenkins/inbound-agent:latest
