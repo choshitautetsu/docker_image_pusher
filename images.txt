@@ -21,3 +21,4 @@ jenkins/inbound-agent:latest
 docker:20.10-dind
 maven:3.8.6-jdk-11
 node:22
+node:22-alpine
