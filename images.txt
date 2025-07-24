@@ -23,3 +23,4 @@ maven:3.8.6-jdk-11
 node:22
 node:22-alpine
 docker:28.3.2-dind-alpine3.22
+bitnami/kubectl:latest
